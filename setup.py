@@ -33,7 +33,4 @@ setuptools.setup(name="openml",
                               'Programming Language :: Python :: 3',
                               'Programming Language :: Python :: 3.3',
                               'Programming Language :: Python :: 3.4',
-                 ],
-                 dependency_links=[
-                     "http://github.com/mfeurer/liac-arff/archive/master.zip"
-                     "#egg=liac-arff-2.1.1dev"])
+                 ])

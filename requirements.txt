@@ -1,3 +1,4 @@
+-e git+https://github.com/mfeurer/liac-arff.git#egg=liac-arff-2.1.1dev 
 numpy>=1.6.2
 scipy>=0.13.3
 numpydoc
